@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PlayerModules
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: ac8194d6e815b3f4e8c9ed4c82c43d44, type: 3}
+    - {fileID: 2800000, guid: 4b8ba7e9279453b41a9c858d5d92de37, type: 3}
+    - {fileID: 2800000, guid: 416f8d3a0307b2247ae8f29f896d7767, type: 3}
+    - {fileID: 2800000, guid: 57da298c20453494ca5b3f830d635e70, type: 3}
+    - {fileID: 2800000, guid: 817e9f20e85e56a4991f71e7b3db8041, type: 3}
+    - {fileID: 21300000, guid: 817e9f20e85e56a4991f71e7b3db8041, type: 3}
+    - {fileID: 2800000, guid: b53ab1165f1b71340bbecaaef3cb598b, type: 3}
+    - {fileID: 2800000, guid: 1e0688733e9db4946bdb0e7a7d14012e, type: 3}
+    - {fileID: 2800000, guid: 299daf2fd3f28174fb4c86cd0ad4c5e9, type: 3}
+    - {fileID: 2800000, guid: aeedf6fbb952f22499808bf2ff36ce13, type: 3}
+    - {fileID: 2800000, guid: fb089874d5824f24b80e8dc2dd887848, type: 3}
+    - {fileID: 2800000, guid: a4b690d365c47db4bb67253c5db9b322, type: 3}
+    - {fileID: 2800000, guid: dfdb52a827de0bd49bee1e6717a8b041, type: 3}
+    - {fileID: 2800000, guid: 6232375872241dd47bdf821fa22596da, type: 3}
+    - {fileID: 2800000, guid: 5bcc0b8065f56e84080dcecae5a612b0, type: 3}
+    - {fileID: 2800000, guid: b47b39c30ed177a499cad2b7aa4b31ed, type: 3}
+    - {fileID: 2800000, guid: 66d055be99a8b194c95433922b8ee97f, type: 3}
+    totalSpriteSurfaceArea: 3620777
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 817e9f20e85e56a4991f71e7b3db8041, type: 3}
+  - {fileID: 21300000, guid: 5bcc0b8065f56e84080dcecae5a612b0, type: 3}
+  - {fileID: 21300000, guid: 1e0688733e9db4946bdb0e7a7d14012e, type: 3}
+  - {fileID: 21300000, guid: b47b39c30ed177a499cad2b7aa4b31ed, type: 3}
+  - {fileID: 21300000, guid: a4b690d365c47db4bb67253c5db9b322, type: 3}
+  - {fileID: 21300000, guid: fb089874d5824f24b80e8dc2dd887848, type: 3}
+  - {fileID: 21300000, guid: b53ab1165f1b71340bbecaaef3cb598b, type: 3}
+  - {fileID: 21300000, guid: ac8194d6e815b3f4e8c9ed4c82c43d44, type: 3}
+  - {fileID: 21300000, guid: 6232375872241dd47bdf821fa22596da, type: 3}
+  - {fileID: 21300000, guid: dfdb52a827de0bd49bee1e6717a8b041, type: 3}
+  - {fileID: 21300000, guid: 4b8ba7e9279453b41a9c858d5d92de37, type: 3}
+  - {fileID: 21300000, guid: 416f8d3a0307b2247ae8f29f896d7767, type: 3}
+  - {fileID: 21300000, guid: aeedf6fbb952f22499808bf2ff36ce13, type: 3}
+  - {fileID: 21300000, guid: 57da298c20453494ca5b3f830d635e70, type: 3}
+  - {fileID: 21300000, guid: 66d055be99a8b194c95433922b8ee97f, type: 3}
+  - {fileID: 21300000, guid: 299daf2fd3f28174fb4c86cd0ad4c5e9, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - head_2
+  - wing_2
+  - head_4
+  - wing_3
+  - tail_3
+  - tail_2
+  - head_3
+  - body_1
+  - wing_1
+  - tail_4
+  - body_2
+  - body_3
+  - tail_1
+  - head_1
+  - wing_4
+  - head_5
+  m_Tag: PlayerModules
+  m_IsVariant: 0
